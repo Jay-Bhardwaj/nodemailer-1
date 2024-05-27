@@ -1,0 +1,22 @@
+/* styles.css */
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#verificationForm,
+#otpForm {
+    display: none;
+}
+
+#message {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
